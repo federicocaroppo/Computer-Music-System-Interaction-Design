@@ -37,5 +37,7 @@ Also, a pop-up has been added to note the performer when the loop is recording, 
   <img src="/imgs/GUI_imag.png" width=65% margin-top="15%">
 </p>
 
+### You can find a demo video for the system we developed in the files above!
+
 ### Group members
 Nicolò Chillè, Rocco Scarano, Enrico Dalla Mora, Federico Caroppo
